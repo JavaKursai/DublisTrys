@@ -1,6 +1,6 @@
+pom
 target
 .project
 .classpath
 .settings
 db
-pom
