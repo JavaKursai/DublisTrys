@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: HeyArno
 Build-Jdk: 10.0.1
+=======
+Built-By: Mantas
+Build-Jdk: 10
+>>>>>>> f5b3e14357bfe6c8a0f5982ea30270f12e4393e5
 Created-By: Maven Integration for Eclipse
 

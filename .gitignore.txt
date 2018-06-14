@@ -1,3 +1,4 @@
+pom
 target
 .project
 .classpath
