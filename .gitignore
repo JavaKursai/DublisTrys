@@ -1,1 +1,6 @@
-/target/
+pom
+target
+.project
+.classpath
+.settings
+db
